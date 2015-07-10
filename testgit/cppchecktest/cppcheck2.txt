@@ -1,0 +1,2 @@
+[/root/program/pytonshell/paramiko.log:7]: (error) syntax error
+[/root/program/pytonshell/test.sh:5]: (error) syntax error
